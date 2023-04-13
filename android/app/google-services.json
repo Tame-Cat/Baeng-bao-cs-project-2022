@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "918137908291",
+    "project_id": "baengbao",
+    "storage_bucket": "baengbao.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:918137908291:android:cf3b5bc98bea6b6bc138f6",
+        "android_client_info": {
+          "package_name": "com.lina.baeng_bao"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "918137908291-9o1oh0neb4ubf8sfdrifc1ggq0knhjj0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.lina.baeng_bao",
+            "certificate_hash": "4b142a9207f448ec865925d4c20185ae87f8f44e"
+          }
+        },
+        {
+          "client_id": "918137908291-i74lq1b6qflscjhicb6akcnmbhbjat04.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKHq3y3huX2DX3Zza8G3TKPMjG64pxSV0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "918137908291-i74lq1b6qflscjhicb6akcnmbhbjat04.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
